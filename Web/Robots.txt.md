@@ -54,5 +54,5 @@ User-agent: *
 Disallow: /
 ```
 ==For more privacy use the HTML meta tag as well.==
-	```<meta name='robots' content='noindex,follow' />
+	`<meta name='robots' content='noindex,follow' />`
 

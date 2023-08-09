@@ -1,0 +1,1 @@
+Using `a[i];` equals `*(a + 1);`
